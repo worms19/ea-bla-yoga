@@ -175,7 +175,7 @@ ol {
   text-transform: uppercase;
   padding: 14px 25px 12px;
   color: #ffffff;
-  background: #5c00ce;
+  background: red;
   letter-spacing: 2px;
 }
 
@@ -2848,7 +2848,7 @@ ol {
     border-radius: 0;
     padding: 12px 15px;
     float: none;
-    background: #5c00ce;
+    background: rgba(255, 255, 255, 0.3);
   }
   .slicknav_nav {
     position: absolute;
@@ -2873,12 +2873,12 @@ ol {
   }
   .slicknav_nav a:hover {
     border-radius: 0;
-    background: #5c00ce;
+    background: rgba(255, 255, 255, 0.3);
     color: #ffffff;
   }
   .slicknav_nav .slicknav_row:hover {
     border-radius: 0;
-    background: #5c00ce;
+    background: rgba(255, 255, 255, 0.3);
     color: #ffffff;
   }
   .service__item {
